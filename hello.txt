@@ -1,5 +1,9 @@
 ceci est un test
 ligne 1
+<<<<<<< HEAD
 sc cz re scczsecie
+=======
+Ceci n'est pas la ligne 2
+>>>>>>> 248de9f164a476684ddcdf88fe71d1c52bf38102
 ligne3
 prières de modifier la ligne 2
